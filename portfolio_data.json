@@ -1,0 +1,51 @@
+{
+    "filters": {
+        "medium": ["Photography", "Videography"],
+        "creator": ["Megan Mellinger", "Sara Reichert", "Myles Dean"],
+        "client": ["Deep End", "Ryan Ahlwardt", "City Mag", "Urban Visions"]
+    },
+    "portfolioItems": [
+        {
+            "id": "1",
+            "title": "Beach Shoot",
+            "description": "Tampa Florida Beach Photo Shoot",
+            "medium": "Photography",
+            "creator": "Megan Mellinger",
+            "client": "Deep End",
+            "thumbnail": "https://images.squarespace-cdn.com/content/6621c599d5e3521bddac4f66/1713810306338-9680ZZR4FJK1P88UEE15/Capture-2024-04-22-142051.png?content-type=image%2Fpng",
+            "type": "image"
+        },
+        {
+            "id": "2",
+            "title": "Granary Music Video",
+            "description": "Roles: Creative Director, Videographer, Editor",
+            "medium": "Videography",
+            "creator": "Megan Mellinger",
+            "client": "Ryan Ahlwardt",
+            "thumbnail": "https://path/to/granary-video-thumbnail.jpg",
+            "content": "<iframe src="https://www.youtube.com/embed/IyI3-B29fGQ" title="Ryan Ahlwardt - Granary (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
+            "type": "video"
+        },
+        {
+            "id": "3",
+            "title": "Cityscape Photography",
+            "description": "Nighttime skyline of New York",
+            "medium": "Photography",
+            "creator": "Sara Reichert",
+            "client": "City Mag",
+            "thumbnail": "https://images.squarespace-cdn.com/content/6621c599d5e3521bddac4f66/1713810304835-EIXWLDNM8RVHRW8S47AW/Screenshot+2024-04-22+at+2.24.02%E2%80%AFPM.png?content-type=image%2Fpng",
+            "type": "image"
+        },
+        {
+            "id": "4",
+            "title": "Downtown Rush Video",
+            "description": "Timelapse video of downtown traffic",
+            "medium": "Videography",
+            "creator": "Myles Dean",
+            "client": "Urban Visions",
+            "thumbnail": "https://images.squarespace-cdn.com/content/6621c599d5e3521bddac4f66/3d160ffd-b9e2-4c8a-a58a-5fa0d4b787a7/Youtube+thumbnail+HD.jpg?content-type=image%2Fjpeg",
+            "content": "<iframe src="https://www.youtube.com/embed/IyI3-B29fGQ" title="Ryan Ahlwardt - Granary (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
+            "type": "video"
+        }
+    ]
+}
